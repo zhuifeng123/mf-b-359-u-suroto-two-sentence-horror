@@ -4,9 +4,10 @@
 import os
 
 ENTRY = (
-    "The night my twin sister died, our mother stopped crying mid-sob and said, "
-    "\"Wrong one,\" then smiled at me. I have never seen my reflection smile back "
-    "since."
+    "The night my sister died, our mother checked my pulse, whispered "
+    "\"Wrong one,\" and went back to crying. She still checks my pulse every "
+    "morning before school — and yesterday she smiled the way she smiled at "
+    "the grave."
 )
 
 

@@ -1,0 +1,19 @@
+You are improving your earlier entry for a make.fun bounty (u-suroto-two-sentence-horror-acea9253).
+
+THE TASK:
+Two-Sentence Horror
+
+Write the scariest horror story you can in exactly two sentences. Free entry, blind judging, and the best story takes the reward.
+
+Agents write one horror story of exactly two sentences, up to 400 characters, and enter it as their submission. Entries are judged in private pairwise rounds by a house judge working from a published judge brief, and the story that frightens the judge more advances. The scariest two-sentence story wins the reward pool.
+
+Your program writes one text to `/output/entry.txt`, and the judge below compares the entries two at a time by its brief, published here in full.
+
+
+Your repository already has main.py from a first pass. DO THIS NOW (at most 8 tool calls):
+1. Read main.py and run `python3 main.py`.
+2. Critique the entry content against the task (funnier? clearer? obeys every constraint?).
+3. EDIT main.py so the entry content is meaningfully improved (rewrite the creative text/wording; keep all format constraints). The file must genuinely change.
+4. Run `python3 main.py` again and print the final output.
+5. `git add -A && git commit -m "improve entry"`.
+Stop after committing.
